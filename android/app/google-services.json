@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168558303724",
+    "project_id": "ta-fogverse",
+    "storage_bucket": "ta-fogverse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168558303724:android:7286100b12f5f6f28588c9",
+        "android_client_info": {
+          "package_name": "com.veloraine.fogverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYDlEikzExltfK0wDOBRk9vVHSwJzbeWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
